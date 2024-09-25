@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{background-color:#BD8563 ;
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{ font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    background-color: #6d442c;
+    font-size: 40px;
+    padding: 10px;
+    border-width: 2px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-right: 10%;
+}
+p{font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    background-color: #6d442c;
+    font-size: 200%;
+    padding: 10px;
+    border-width: 2px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-right: 10%;
+}
+.imageHeader{
+    float: left;
+    width: 15%;
+    height: auto;
+}
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    width: 110px;
+    padding: 15px 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: #c9a884;
+}
+a {color: #ffffff ;
+    background-color: #6d442c;
+}
+img{
+    float: left;
+    width: 30%;
+    margin: 0%;
+}
+h1{font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 60px;
+}
+aside h1{
+    font-size: 35px;
+    color: aliceblue;
+    margin: 10px;
+    margin-left: 31%;
+}
+h3{font-family: "Courier Prime", monospace;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 200%;
+    color: #ffffff;
+    margin-left: 31%;
+}
+h4{
+    font-size: 170%;
+    color: #ffffff;
+    margin-left: 31%;
+}
+div.a{
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    background-color: #6d442c;
+    font-size: 240%;
+    padding: 10px;
+    border-width: 2px;
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 2%; 
+}
+div.b{
+    width: 50%;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+div.c{
+    width: 60%;
+    margin-left: 26%;
+    margin-top: 1%;
+}
+div.d{
+    width: 60%;
+    margin-left: 54%;
+    margin-top: 1%;
+}
+div.e{
+    width: 50%;
+    margin-left: 84%;
+    margin-top: 1%;
+}
+div.f{
+    width: 80%;
+    margin-right: 80%;
+}
+div.i{
+    font-size: 45px;
+   color: #ffffff;
+   margin-top: 2%;
+   margin-left: 2%;
+}
+div.g{
+    font-size: 40px;
+    color: #ffffff;
+    margin-top: 6%;
+    margin-left: 30%;
+}
+div.h{
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 10.5%;
+}
+div.j{
+    font-size: 45px;
+    color: #ffffff;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+div.k{
+    width: 80%;
+    margin-left: 1%;
+    margin-top: 10.5%;
+}
+div.l{
+    font-size: 45px;
+    color: #ffffff;
+    margin-top: 22%;
+    margin-left: 30%;
+}
+div.m{
+    font-size: 50px;
+    color: #ffffff;
+    margin-top: 15%;
+    margin-right: 30%;
+}
